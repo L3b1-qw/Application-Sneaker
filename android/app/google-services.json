@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34990490688",
+    "project_id": "loginshop-d215f",
+    "storage_bucket": "loginshop-d215f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34990490688:android:6ffad1cefd9e83de7f0ba5",
+        "android_client_info": {
+          "package_name": "com.example.shop_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfbGbjsBxfgfIwZ10kjbY_QeFOUKI3E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
